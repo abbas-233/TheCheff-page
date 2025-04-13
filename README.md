@@ -1,3 +1,4 @@
-# TheCheff-page
+# Restaurant page
 
-this is a website for thecheff resturant , engoiy
+Restaurant page created with HTML, CSS and JS.
+
