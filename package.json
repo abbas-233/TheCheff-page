@@ -11,6 +11,7 @@
   "author": "michalosman",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "webpack": "^5.99.5",
     "webpack-cli": "^4.10.0"
   }
