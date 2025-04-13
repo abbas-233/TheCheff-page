@@ -1,4 +1,3 @@
-# Restaurant page
+# this is the cheffpage project
 
-Restaurant page created with HTML, CSS and JS.
 
